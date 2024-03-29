@@ -17,7 +17,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "del": "^6.1.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-postcss": "^9.0.1",
     "node-emoji": "^1.11.0",
     "standardx": "^7.0.0"
