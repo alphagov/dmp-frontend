@@ -2,3 +2,4 @@ govuk_frontend_jinja==1.0.0
 jinja2~=2.11.2
 pytest~=6.0.1
 syrupy~=0.7.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
